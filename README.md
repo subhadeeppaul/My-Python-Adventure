@@ -4,22 +4,19 @@ Welcome to **My Python Adventure**! This repository documents my journey of lear
 
 ## 📚 Contents
 
-### 1. Core Concepts
-- **Basics:** Learn the fundamentals of Python, including variables, data types, control structures, functions, and modules.
-- **Advanced:** Dive deeper into object-oriented programming (OOP), exception handling, file I/O, and popular libraries such as NumPy and Pandas.
-
-### 2. Interview Questions
-- **Beginner:** Essential questions for those new to Python.
-- **Intermediate:** Questions to test your deeper understanding of Python.
-- **Advanced:** Challenging questions to prepare for high-level interviews.
-
-### 3. Projects
-- **Mini Projects:** Hands-on projects to apply what you've learned.
-  - Examples: Calculator, Web Scraper, Basic Data Analysis
-
-### 4. Resources
-- **Articles:** Curated articles from Medium and other sources.
-- **Podcasts:** Links to insightful interview discussions and tips.
+1. [Core Concepts](#core-concepts)
+   - [Basics](#basics)
+   - [Advanced](#advanced)
+2. [Interview Questions](#interview-questions)
+   - [Beginner](#beginner)
+   - [Intermediate](#intermediate)
+   - [Advanced](#advanced-interview-questions)
+3. [Projects](#projects)
+   - Mini Projects: Hands-on projects to apply what you've learned.
+     - Examples: Calculator, Web Scraper, Basic Data Analysis
+4. [Resources](#resources)
+   - Articles: Curated articles from Medium and other sources.
+   - Podcasts: Links to insightful interview discussions and tips.
 
 ## 📝 Description
 
