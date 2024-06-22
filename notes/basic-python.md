@@ -10,17 +10,21 @@
 
 ## Key Features
 
-Extensibility and Modularity:
+Extensibility and Modularity:<be />
 Python was designed to be highly extensible and modular.
 
-Modularity: Breaking down tasks into clearly defined, independent sub-tasks (modules) that can be combined, replaced, or upgraded without affecting other parts of the system.
+Modularity: Breaking down tasks into clearly defined, independent sub-tasks (modules) that can be combined, replaced, or upgraded without affecting other components of the system.
 Extensible: Can be extended with new modules and functions as needed.
+
 White Space Syntax:
 
-Uses indentation and white spaces to define code structure, making it similar to natural English language.
+Python has a unique “white space” based syntax which is quite similar to the natural English 
+language.
+
 Built-in Tools:
 
 Includes its own data types, operators, and functions for executing tasks and creating reusable modules.
+
 Libraries:
 
 Modules and Libraries: Modules can be grouped into libraries for specific domains.
