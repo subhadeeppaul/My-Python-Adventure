@@ -10,10 +10,10 @@
 
 ## Key Features
 
-Extensibility and Modularity:<be />
+Extensibility and Modularity:<br />
 Python was designed to be highly extensible and modular.
 
-Modularity: Breaking down tasks into clearly defined, independent sub-tasks (modules) that can be combined, replaced, or upgraded without affecting other components of the system.
+Modularity: Breaking down tasks into clearly defined, independent sub-tasks (modules) that can be combined, replaced, or upgraded without affecting other components of the system.<br />
 Extensible: Can be extended with new modules and functions as needed.
 
 White Space Syntax:
