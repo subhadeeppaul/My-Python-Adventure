@@ -1,6 +1,6 @@
 # 🐍 My Python Adventure
 
-Welcome to **My Python Adventure**! This repository documents my journey of learning Python, from the basics to advanced concepts. It's a comprehensive resource filled with tutorials, projects, and interview questions to help me (and you) master Python.
+Welcome to **My Python Adventure**! This repository documents my journey of learning Python, from the basics to advanced concepts. It's a comprehensive resource with tutorials, projects, and interview questions to help me (and you) master Python.
 
 ## 📚 Contents
 
@@ -70,13 +70,9 @@ Contributions are welcome! If you have ideas, suggestions, or improvements, feel
 
 If you have any questions or want to connect, feel free to reach out:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- Email: subhadeeppaul35@gmail.com
+- LinkedIn: [Subhadeep Paul](https://www.linkedin.com/in/subhadeep--paul/)
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
