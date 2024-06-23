@@ -58,13 +58,13 @@ In Assembly, you work with small, detailed instructions that tell the computer e
 
 So in short, <br />
 High Level Language:
-Examples: Python, Java, C++
-Readability: Easy to read and write, similar to natural language.
-Usage: Ideal for programmers to write complex applications quickly.
-Translation: Needs to be translated into low level code to run on a computer.
+- Examples: Python, Java, C++
+- Readability: Easy to read and write, similar to natural language.
+- Usage: Ideal for programmers to write complex applications quickly.
+- Translation: Needs to be translated into low level code to run on a computer.
 
 Low Level Language: <br />
-Examples: Assembly, Machine Code
-Readability: Hard to read and write, very close to machine instructions.
-Usage: Directly interacts with computer hardware, very fast and memory efficient.
-Execution: Computers can run low level code directly without translation.
+- Examples: Assembly, Machine Code
+- Readability: Hard to read and write, very close to machine instructions.
+- Usage: Directly interacts with computer hardware, very fast and memory efficient.
+- Execution: Computers can run low level code directly without translation.
