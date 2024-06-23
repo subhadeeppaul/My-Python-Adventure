@@ -56,14 +56,14 @@ ADD BX, AX
 ```
 In Assembly, you work with small, detailed instructions that tell the computer exactly what to do. This code tells the computer to move the number 5 into a special place called AX and then add it to another number in BX. That is, This tells the computer to do some math, but it’s not easy to understand.
 
-So in short,
+So in short, <br />
 High Level Language:
 Examples: Python, Java, C++
 Readability: Easy to read and write, similar to natural language.
 Usage: Ideal for programmers to write complex applications quickly.
 Translation: Needs to be translated into low level code to run on a computer.
 
-Low Level Language:
+Low Level Language: <br />
 Examples: Assembly, Machine Code
 Readability: Hard to read and write, very close to machine instructions.
 Usage: Directly interacts with computer hardware, very fast and memory efficient.
