@@ -68,3 +68,15 @@ Low Level Language: <br />
 - Readability: Hard to read and write, very close to machine instructions.
 - Usage: Directly interacts with computer hardware, very fast and memory efficient.
 - Execution: Computers can run low level code directly without translation.
+
+### Compiler:
+- Function: A compiler takes an entire high-level program and converts it into low-level code called object code.
+- Execution: The object code can be run by the computer whenever needed.
+- Reuse: Once the program is compiled, the object code can be reused multiple times without needing to recompile the original high-level code.
+
+### Interpreter:
+
+- Function: An interpreter translates and runs high-level code one line at a time.
+- Interactive: This allows for immediate feedback after each line of code is run.
+- Step-by-Step Inspection: You can check the results of your code step by step before running the entire program.
+- Example: In a Jupyter notebook, the interpreter converts and runs the code in each cell, then shows the results.
