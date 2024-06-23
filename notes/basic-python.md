@@ -17,15 +17,24 @@ Modularity: Breaking down tasks into clearly defined, independent sub-tasks (mod
 Extensible: Can be extended with new modules and functions as needed.
 
 White Space Syntax:
-
 Python has a unique “white space” based syntax which is quite similar to the natural English 
 language.
 
 Built-in Tools:
-
 Includes its own data types, operators, and functions for executing tasks and creating reusable modules.
 
 Libraries:
-
 Modules and Libraries: Modules can be grouped into libraries for specific domains.
 Open Source: Most Python libraries are open source, allowing access, modification, and contributions from the community.
+
+## Ecosystem
+
+Python has a vibrant ecosystem of libraries covering various fields:
+- Linear Algebra
+- Data Visualization
+- Astrophysics
+- Medicine
+- Stock Trading
+- Machine Learning
+- Data Science
+
